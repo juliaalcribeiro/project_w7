@@ -2,5 +2,5 @@ input_data:
   file: "../data/raw/alzheimers_disease_data.csv"
   
 output_data:
-  file: ""
+  file: "../data/clean/alzheimers_top5"
 

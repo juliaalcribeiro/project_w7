@@ -111,7 +111,6 @@ KNN showed the highest accuracy, precision, and recall among baseline models.
 
 # Launch notebook for exploration and model training
 
-
 📁 Repository Structure
 
 Copy code
